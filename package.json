@@ -1,0 +1,19 @@
+{
+  "name": "rest_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.19.4",
+    "axios": "^1.1.2",
+    "babel": "^6.23.0",
+    "babel-jest": "^29.1.2",
+    "jest": "^29.1.2",
+    "mockserver": "^3.1.1"
+  }
+}
